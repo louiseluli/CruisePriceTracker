@@ -1,0 +1,13 @@
+# For making HTTP requests to websites
+requests
+
+# For parsing HTML and XML data
+beautifulsoup4
+lxml
+
+# For data analysis and manipulation
+pandas
+
+# For data visualization
+matplotlib
+seaborn
